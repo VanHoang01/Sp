@@ -1,0 +1,95 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+body{
+    width:900px ;
+    height: 900px;
+    margin: 0 auto;
+}
+header{
+    height: 100px;
+    background: #CCFFFF;
+    margin-bottom: 5px;
+
+}
+header img{
+    padding-left: 30px;
+}
+nav{
+    height: 35px;
+    background: #EEEEEE	;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+}
+nav .menu ul{
+    list-style: none;
+}
+nav .menu ul li{
+    float: left;
+    line-height: 35px;
+    padding: 0 20px;
+}
+nav .menu ul li a{
+    color: #000088;
+    font-size: 16px;
+    text-decoration: none;
+}
+h3{
+    margin: 5px 0;
+    font-size: 15px;
+    color: #111111;	
+    padding: 5px 30px;
+    text-transform: uppercase;
+
+}
+article .thongbao li{
+    list-style: none;
+    padding: 0 40px;
+}
+p{
+    color: #111111;
+    padding: 5px 40px;
+}
+ article .huongdan li{
+    list-style: none;
+    padding: 5px 40px;
+ }
+article .bangtin li{
+    padding: 5px 40px;
+    list-style: none;
+}
+div{
+    color: #000088;	;
+}
+footer{
+    width: 900px;
+
+}
+
+footer div{
+    border: 1px solid #ccc;
+    background: #EEEEEE	;
+    float: left;
+    margin-top: 10px;
+    padding: 0 3px;
+}
+footer div .hotro li {
+     color: #111111;
+}
+
+footer .footer h3{
+    padding-left: 0px;
+    text-align: center;
+}
+footer .footer .lienket li{
+    padding-left: 0px;
+    list-style: none;
+}
+footer .footer li{
+    list-style: none;
+    line-height: 35px;
+    padding: 0 20px;
+    text-align: center;
+}
